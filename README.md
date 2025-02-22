@@ -264,6 +264,24 @@ The typology of the paper is as follows:
         <td>-</td>
         <td>No</td>
 </tr>
+
+<tr>
+        <td>Kimi-k1.5 [<a href="#ref19">19</a>]</td>
+        <td>Moonshot AI</td> 
+        <td>-</td> 
+        <td>-</td>
+        <td><a href="https://arxiv.org/abs/2501.12599" target="_blank">paper</a></td>
+        <td>No</td>
+</tr>
+
+<tr>
+        <td>DeepSeek-R1 [<a href="#ref20">20</a>]</td>
+        <td>DeepSeek</td> 
+        <td>671B-A31B</td> 
+        <td><a href="https://github.com/deepseek-ai/DeepSeek-R1/tree/main" target="_blank">project</a></td>
+        <td><a href="https://arxiv.org/abs/2501.12948" target="_blank">paper</a></td>
+        <td>Yes</td>
+</tr>
 </table>
 
 ### Related Papers
@@ -302,6 +320,10 @@ The typology of the paper is as follows:
 <a id="ref17">[17]</a> Teknium, Ryan and Quesnelle, Jeffrey and Guang, Chen. **Hermes 3 technical report**. arXiv preprint arXiv:2408.11857. [Paper](https://arxiv.org/abs/2408.11857)
 
 <a id="ref18">[18]</a> OpenAI. **Hello, {GPT}-4o**. [Project](https://openai.com/index/hello-gpt-4o/)
+
+<a id="ref19">[19]</a> Kimi Team et al., 2025. **Kimi k1.5: Scaling Reinforcement Learning with LLMs**. arXiv preprint arXiv:2501.12599. [Paper](https://arxiv.org/abs/2501.12599)
+
+<a id="ref20">[20]</a> DeepSeek-AI et al., 2025. **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**. arXiv preprint arXiv:2501.12948. [Paper](https://arxiv.org/abs/2501.12948)
 
 
 
